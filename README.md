@@ -1,0 +1,1 @@
+In this course I learned programming logic and constructs in Python and basic command line scripting in Linux and Windows environments. Control structures, arithmetic and logical operators, functions, arrays, regular expressions, classes/objects, and exception handling are covered in Python. I also wrote Linux programming scripts to execute basic processes and tasks.
